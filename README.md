@@ -1,6 +1,4 @@
 # Bhaav.ai
-A Multilingual Sentiment Analyzer for Indian Languages
-# Bhaav.ai
 Bhaav.ai is a multilingual sentiment analyzer that focuses on the analysis of Indian Languages. Bhaav.ai, as a product in its present form, offers the analysis of the following languages: 
 
 1. Hindi <br>
